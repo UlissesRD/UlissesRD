@@ -1,4 +1,4 @@
-### Hi, I'm Pedro Ulisses ![image](https://i.gifer.com/14Vb.gif)
+### Hi, I'm Pedro Ulisses ![image](https://github.com/UlissesRD/UlissesRD/blob/main/gifs/14Vb.gif)
 
 IT Technician at [PUCRS](https://portal.pucrs.br/)  
 Currently studying Information Systems at [PUCRS](https://portal.pucrs.br/)
@@ -18,4 +18,4 @@ const pedro = {
 };
 ```
 
-<img src="https://github.com/UlissesRD/UlissesRD/assets/144186708/5b047ee2-de1e-4100-8a8e-ff9d6f4c469d" width="50" height="50"> I love to talk and connect with people so if you want to say hi, you know what to do!:)
+<img src="https://github.com/UlissesRD/UlissesRD/blob/main/gifs/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966.gif" width="50" height="50"> I love to talk and connect with people so if you want to say hi, you know what to do!:)
