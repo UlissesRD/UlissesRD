@@ -1,4 +1,4 @@
-### Hi, I'm Pedro Ulisses ![image](https://github.com/UlissesRD/UlissesRD/blob/main/gifs/14Vb.gif)
+### Hi, I'm Pedro Ulisses <img src="https://github.com/UlissesRD/UlissesRD/blob/main/gifs/14Vb.gif" width="50" height="50">
 
 IT Technician at [PUCRS](https://portal.pucrs.br/)  
 Currently studying Information Systems at [PUCRS](https://portal.pucrs.br/)
