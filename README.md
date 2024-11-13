@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro Ulisses Reis de Dorneles! <img src="https://github.com/UlissesRD/UlissesRD/blob/main/gifs/14Vb.gif" width="50" height="50">
 
-IT Technician at [PUCRS](https://portal.pucrs.br/)  
+Software Developer at [BornLogic](https://www.bornlogic.com/)  
 Currently studying Information Systems at [PUCRS](https://portal.pucrs.br/)
 
 
